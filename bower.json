@@ -1,0 +1,23 @@
+{
+  "name": "js-form-validator",
+  "main": "js-form-validator.js",
+  "authors": [ "Amândio Nhamande <amandio16@gmail.com>" ],
+  "description": "Validates html form on the client side with pure javascript.",
+  "verision": "1.0",
+  "keywords": [
+    "form",
+    "html",
+    "validation",
+    "bower",
+    "library"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
